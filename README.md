@@ -9,5 +9,5 @@ This project requires PHP and composer to be installed.
 2. Run `make run` to start the test server.
 
 ## Running Tests
-1. Run `make test` to run the tests.
+1. Run `make run-test` to run the tests.
 
